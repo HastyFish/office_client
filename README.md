@@ -1,3 +1,9 @@
+武昌理工竞赛项目前端部分  
+<a href="https://github.com/HastyFish/office_server">后端部分</a>  
+使用vue+elementUI
+
+
+
 # office_client
 
 > A Vue.js project
