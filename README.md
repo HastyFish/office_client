@@ -1,36 +1,7 @@
-武昌理工竞赛项目前端部分  
-<a href="https://github.com/HastyFish/office_server">后端部分</a>  
-使用vue+elementUI
-
-
-
 # office_client
 
-> A Vue.js project
+> 武昌理工竞赛项目前端部分  
+>软件工程1604   1个技术总监+3个杂物人员
+><a href="https://github.com/HastyFish/office_server">后端部分</a>  
+>使用vue+elementUI
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
